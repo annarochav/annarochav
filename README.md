@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
 <h3 align="center">I am a Certified Data Analyst with a strong foundation in key data analysis and visualization technologies, as well as experience building end-to-end data solutions. I can handle a wide range of data-related tasks, from data extraction and cleaning to building interactive visualizations and dashboards.</h3>
 
-- 📫 How to reach me **annarochave@gmail.com**
+📫 Reach me here! ----> **annarochave@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
